@@ -8,7 +8,7 @@ Cleaning Data in SQL Queries
 Select *
 From PortfolioProject.dbo.NashvilleHousing
 
---------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 
 -- Standardize Date Format
 
@@ -217,39 +217,6 @@ From PortfolioProject.dbo.NashvilleHousing
 
 ALTER TABLE PortfolioProject.dbo.NashvilleHousing
 DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
